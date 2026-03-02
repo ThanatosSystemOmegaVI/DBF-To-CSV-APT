@@ -3,11 +3,11 @@ dbf-repo
 
 
 # install
-curl -fsSL https://ThanatosSystemOmegaVI.github.io/DBF-To-CSV-APT/key.gpg | \
+curl -fsSL https://thanatossystemomegavi.github.io/DBF-To-CSV-APT/key.gpg | \
   sudo gpg --dearmor -o /usr/share/keyrings/dbf-reader.gpg
 
 echo "deb [signed-by=/usr/share/keyrings/dbf-reader.gpg] \
-https://ThanatosSystemOmegaVI.github.io/DBF-To-CSV-APT stable main" | \
+https://thanatossystemomegavi.github.io/DBF-To-CSV-APT stable main" | \
 sudo tee /etc/apt/sources.list.d/dbf-reader.list
 
 sudo apt update
