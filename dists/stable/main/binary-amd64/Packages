@@ -1,0 +1,16 @@
+Package: dbf-reader
+Version: 1.0.0
+Architecture: amd64
+Maintainer: plutonicvoid
+Installed-Size: 1732
+Filename: pool/main/d/dbf-reader/dbf-reader_1.0.0_linux_amd64.deb
+Size: 806748
+MD5sum: e07557eecc96c151ad2d0541f186203d
+SHA1: 10f89d6919682d9d2c34c6e9f7d0c6424deb1c0d
+SHA256: d3213be631699fa907f3d1b8200b067d593e6757e37d0b5832a245c41d278d3b
+Priority: optional
+Homepage: https://github.com/ThanatosSystemOmegaVI/DBF-To-CSV
+Description: Convert DBF files to CSV
+Architecture-Variant: amd64v1
+License: MIT
+
